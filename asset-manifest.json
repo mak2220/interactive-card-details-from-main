@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mak2220/interactive-card-details-from-main/static/css/main.87b651d2.css",
+    "main.js": "/mak2220/interactive-card-details-from-main/static/js/main.f2607cb2.js",
+    "static/js/787.1eb4d8fb.chunk.js": "/mak2220/interactive-card-details-from-main/static/js/787.1eb4d8fb.chunk.js",
+    "static/media/bg-main-desktop.png": "/mak2220/interactive-card-details-from-main/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/mak2220/interactive-card-details-from-main/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/mak2220/interactive-card-details-from-main/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "index.html": "/mak2220/interactive-card-details-from-main/index.html",
+    "main.87b651d2.css.map": "/mak2220/interactive-card-details-from-main/static/css/main.87b651d2.css.map",
+    "main.f2607cb2.js.map": "/mak2220/interactive-card-details-from-main/static/js/main.f2607cb2.js.map",
+    "787.1eb4d8fb.chunk.js.map": "/mak2220/interactive-card-details-from-main/static/js/787.1eb4d8fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b651d2.css",
+    "static/js/main.f2607cb2.js"
+  ]
+}
